@@ -1,0 +1,10 @@
+
+Receipt No. : #RECEIPT_NO#
+Amount Redeemed: #CURRENCY# #REDEEMED_AMOUNT#
+Amount Disbursed: #CURRENCY# #DISBURSED_AMOUNT#
+Reference: #REFERENCE#
+Attendant: #ATTENDANT#
+Date: #DATE#
+Time: #TIME#
+
+.

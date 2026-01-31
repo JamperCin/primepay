@@ -1,0 +1,7 @@
+enum BottomBarIndex {
+  HOME,
+  REDEMPTION_HISTORY,
+  DISBURSEMENT_HISTORY,
+  FUND_CARD,
+  SETTINGS,
+}
